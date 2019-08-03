@@ -1,2 +1,2 @@
-def func():
+def function():
     print("PKA2")
